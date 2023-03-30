@@ -1,7 +1,7 @@
 
 # learning git 
 
-echo "# learn-git" --> repeats shit                      
+echo "# learn-git" --> repeats things                
 >> git init --> initialse git repo
 >> git add README.md --> add the all the  files
 >> git commit -m "first commit" --> message for git commit
