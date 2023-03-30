@@ -1,6 +1,8 @@
 
 # learning git 
 
+## Git commands
+
 echo "# learn-git" --> repeats things                
 >> git init --> initialse git repo
 >> git add README.md --> add the all the  files
